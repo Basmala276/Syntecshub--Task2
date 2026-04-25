@@ -1,1 +1,1 @@
-# Syntaxhub--Task2
+# Syntecshub--Task2
